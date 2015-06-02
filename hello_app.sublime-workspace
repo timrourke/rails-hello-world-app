@@ -1,0 +1,1033 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boo",
+				"bootstrap	alias"
+			],
+			[
+				"compu",
+				"computerMove"
+			],
+			[
+				"computer",
+				"computerWins"
+			],
+			[
+				"tribe_",
+				"tribe_get_map_link"
+			],
+			[
+				"ex",
+				"existing_class"
+			],
+			[
+				"first",
+				"firstp"
+			],
+			[
+				"orgni",
+				"organization__category"
+			],
+			[
+				"orga",
+				"organization__category"
+			],
+			[
+				"category",
+				"categoryHierarchy"
+			],
+			[
+				"great",
+				"great-books-organization"
+			],
+			[
+				"ADDRESS",
+				"address-country"
+			],
+			[
+				"address",
+				"address-zip"
+			],
+			[
+				"gb-organization-state",
+				"gb-organization__address-state"
+			],
+			[
+				"fall",
+				"fallback_image_id"
+			],
+			[
+				"feat",
+				"featuredImgSrc"
+			],
+			[
+				"fea",
+				"featuredImgSrc"
+			],
+			[
+				"gb-organization",
+				"gb-organization__phone"
+			],
+			[
+				"board_member_",
+				"board_member_bio"
+			],
+			[
+				"board_mem",
+				"board_member_title"
+			],
+			[
+				"board",
+				"board_member_photo"
+			],
+			[
+				"board_memb",
+				"board_member_photo"
+			],
+			[
+				"line",
+				"linear_gradient_string"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"tim",
+				"verbose_$timeout	AngularJS"
+			],
+			[
+				"app",
+				"appMsg"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ser",
+				"serviceClient"
+			],
+			[
+				"service",
+				"serviceClients"
+			],
+			[
+				"cooke",
+				"cookieParser"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"chat",
+				"chatServer"
+			],
+			[
+				"responsive",
+				"responsive_image_bg_div_"
+			],
+			[
+				"responsi",
+				"responsive_image_bg_div"
+			],
+			[
+				"targe",
+				"target_post_ID"
+			],
+			[
+				"overflow",
+				"overflow-y"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"slp_",
+				"slp__results-label"
+			],
+			[
+				"results_row_",
+				"results_row_left_column"
+			],
+			[
+				"res",
+				"results_row_right_column"
+			],
+			[
+				"slp",
+				"slp_result_address"
+			],
+			[
+				"slp_re",
+				"slp_result_contact"
+			],
+			[
+				"image_ori",
+				"image_original"
+			],
+			[
+				"groups",
+				"groups__addRequestForm"
+			],
+			[
+				"wpcf",
+				"wpcf7Errors"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"stripe",
+				"stripeCustomerID"
+			],
+			[
+				"fields",
+				"fields_to_disable"
+			],
+			[
+				"current",
+				"currentUserMeta"
+			],
+			[
+				"curren",
+				"currentUserMeta"
+			],
+			[
+				"input",
+				"inputbutton"
+			],
+			[
+				"inpu",
+				"inputbutton"
+			],
+			[
+				"amount",
+				"amount-choice"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"mc",
+				"mc_signup_submit"
+			],
+			[
+				"comments",
+				"comments-link"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"get",
+				"get_the_ID"
+			],
+			[
+				"cate",
+				"categories_list"
+			],
+			[
+				"author",
+				"author_prefix"
+			],
+			[
+				"esc",
+				"esc_html"
+			],
+			[
+				"blog_",
+				"blog__excerpt"
+			],
+			[
+				"blog",
+				"blog__excerpt"
+			],
+			[
+				"upload",
+				"upload_url"
+			],
+			[
+				"fallb",
+				"fallback_image_url"
+			],
+			[
+				"fallback_",
+				"fallback_image_url"
+			],
+			[
+				"get_at",
+				"get_attachment_id_from_src"
+			],
+			[
+				"target",
+				"targetID"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"nav",
+				"nav-previous"
+			],
+			[
+				"nav-",
+				"nav-next"
+			],
+			[
+				"menu",
+				"menu-toggle"
+			],
+			[
+				"commetns",
+				"comments-link"
+			],
+			[
+				"get_template_dire",
+				"get_template_directory_uri"
+			],
+			[
+				"html",
+				"html5srcstring"
+			],
+			[
+				"next",
+				"nextthumbnail"
+			],
+			[
+				"prev",
+				"prevthumbnail"
+			],
+			[
+				"comm",
+				"comment-form-comment"
+			],
+			[
+				"respond",
+				"respondInputField"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"comment-form-",
+				"comment-form-comment"
+			],
+			[
+				"comment",
+				"comment-form-author"
+			],
+			[
+				"resop",
+				"respondInputField"
+			],
+			[
+				"resp",
+				"respondInputField"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"publi",
+				"published_time_prefix"
+			],
+			[
+				"pu",
+				"published_time_prefix"
+			],
+			[
+				"image_large_",
+				"image_large_width"
+			],
+			[
+				"image_o",
+				"image_original"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"tae",
+				"targetID"
+			],
+			[
+				"large",
+				"large_img_string"
+			],
+			[
+				"fallback",
+				"fallback_url"
+			],
+			[
+				"type",
+				"type_of_image"
+			],
+			[
+				"page",
+				"pagesubtitle"
+			],
+			[
+				"bigP",
+				"bigPromo__sentence"
+			],
+			[
+				"bigPromo",
+				"bigPromo--newImage"
+			],
+			[
+				"image",
+				"image_large"
+			],
+			[
+				"group-custom-field-add",
+				"group-custom-field-address-unit"
+			],
+			[
+				"group",
+				"group_extension_details"
+			],
+			[
+				"field",
+				"field-visibility-settings-notoggle"
+			],
+			[
+				"fie",
+				"field-visibility-settings-toggle"
+			],
+			[
+				"offc",
+				"officeStuff"
+			],
+			[
+				"typing",
+				"typingInterval"
+			],
+			[
+				"hands",
+				"handsMovement"
+			],
+			[
+				"frontPage__bio-content",
+				"frontPage__bio-content-wrapper"
+			],
+			[
+				"entry",
+				"entry-header"
+			],
+			[
+				"mission",
+				"mission-statement__content"
+			],
+			[
+				"mission-",
+				"mission-statement__intro"
+			],
+			[
+				"gbgd",
+				"gbgd_url_name_array"
+			],
+			[
+				"second",
+				"secondary__menu"
+			],
+			[
+				"secon",
+				"secondary__menu"
+			],
+			[
+				"secondary",
+				"secondaryHeight"
+			],
+			[
+				"sec",
+				"secondary__isOpen"
+			],
+			[
+				"secondr",
+				"secondaryHeight"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"transof",
+				"transform-origin"
+			],
+			[
+				"href",
+				"hrefClicked"
+			],
+			[
+				"front",
+				"frontPage__dots"
+			],
+			[
+				"frontPageSlide",
+				"frontPageSlidePos"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"item",
+				"itemvalue"
+			],
+			[
+				"ease",
+				"ease-out"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1552,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 407.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tim/Documents/Web Development/rails/hello_app"
+	],
+	"file_history":
+	[
+		"/Users/tim/.bash_profile",
+		"/Users/tim/.profile",
+		"/Users/tim/Documents/Web Development/angular2/todo/app.ts",
+		"/Users/tim/Documents/Web Development/angular2/todo/index.html",
+		"/Users/tim/Documents/Web Development/angular2/todo/show-properties.html",
+		"/Users/tim/Documents/Web Development/angular2/todo/show-properties.ts",
+		"/Users/tim/Documents/Web Development/todo/name-change.html",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/Assets/notes/meeting notes 5.31.15.txt",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/js/libs/navigation.js",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/styles/genesis/_mediaqueries.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/styles/genesis/_common.scss",
+		"/Users/tim/fundamentals/wdi-fundamentals-rps/app/js/rockpaperscissors.js",
+		"/Users/tim/fundamentals/git-practice/src/index.js",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/single-board-member.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/views/pages/_board-members.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/content-board-member.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/functions.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/_imports.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/content-board-member-excerpt.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/my-templates/about-template.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/views/pages/_groups.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/my-templates/organizations-template.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/content-gb-organization-excerpt.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/typl8/_typeplate-vars.scss",
+		"/Users/tim/Documents/Web Development/TimRourke/timrourke.com/content/themes/tim_rourke/page-about.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/plugins/woocommerce/assets/css/woocommerce.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/Gruntfile.js",
+		"/Users/tim/Documents/Web Development/timmy/public/app/app.js",
+		"/Users/tim/Documents/Web Development/timmy/public/views/templates/users/signup.html",
+		"/Users/tim/Documents/Web Development/timmy/app.js",
+		"/Users/tim/Documents/Web Development/timmy/public/views/templates/main.html",
+		"/Users/tim/Documents/Web Development/timmy/public/views/templates/users/login.html",
+		"/Users/tim/Documents/Web Development/timmy/public/views/templates/users/login-toolbar.html",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/socket.io/node_modules/engine.io/README.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/socket.io/Readme.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/mongoose/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/README.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/mongoose/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/package.json",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-svgmin/node_modules/svgo/node_modules/colors/ReadMe.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-criticalcss/node_modules/criticalcss/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/readme.markdown",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-criticalcss/node_modules/criticalcss/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/package.json",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/test/commandable.js",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/readme.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/package.json",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/cli.js",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/colors/ReadMe.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/angular-touch/README.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/angular-sanitize/README.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/angular-route/README.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/angular/angular.js",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/README.md",
+		"/Users/tim/Documents/Web Development/timmy/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/package.json",
+		"/Users/tim/Documents/Web Development/timmy/views/error.ejs",
+		"/Users/tim/Documents/Web Development/timmy/routes/index.js",
+		"/Users/tim/Documents/Web Development/timmy/views/templates/chatroom.html",
+		"/Users/tim/Documents/Web Development/timmy/ oldviews/chat/chat.ejs",
+		"/Users/tim/Documents/Web Development/timmy/routes/chat.js",
+		"/Users/tim/Documents/Web Development/timmy/views/chat/chat.ejs",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/plugins/wootickets/views/wootickets/tickets.php",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/styles/layout/_containers.scss",
+		"/Users/tim/Documents/Web Development/timmy/bin/www",
+		"/Users/tim/Documents/Web Development/timmy/routes/users.js",
+		"/Users/tim/Documents/Web Development/timmy/frontend/js/global.js",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/views/_chat.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/_imports.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/styles/elements/_forms.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/variables/_colors.scss",
+		"/Users/tim/Documents/Web Development/timmy/views/footer.ejs",
+		"/Users/tim/Documents/Web Development/timmy/views/head.ejs",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/typl8/_typeplate-vars.scss",
+		"/Users/tim/Documents/Web Development/timmy/Gruntfile.js",
+		"/Users/tim/Documents/Web Development/timmy/frontend/js/libs/webfonts.js",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/styles/typography/_typography.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/styles/typography/_typographystack.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/views/pages/_blog.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/views/pages/_front-page-animation.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/style.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/style-ie.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/media/_media.scss",
+		"/Users/tim/Documents/Web Development/timmy/frontend/scss/modules/_infinite-scroll.scss",
+		"/Users/tim/Documents/Web Development/timmy/views/index.ejs",
+		"/Users/tim/Documents/Web Development/timmy/views/users/login.ejs",
+		"/Users/tim/Documents/Web Development/timmy/views/users/profile.ejs",
+		"/Users/tim/Documents/Web Development/timmy/views/users/signup.ejs",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/Assets/notes/mark meeting may.txt",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/tribe-events/single-event.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/custom-events-stylesheet.css",
+		"/Users/tim/Documents/Web Development/timmy/models/user.js",
+		"/Users/tim/Documents/Web Development/timmy/package.json",
+		"/Users/tim/Documents/Web Development/timmy/config/database.js",
+		"/Users/tim/Documents/Web Development/timmy/views/login.ejs",
+		"/Users/tim/Documents/Web Development/timmy/index.html",
+		"/Users/tim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tim/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tim/Documents/Web Development/react.tim/index.html",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/single-organization.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/content-gb-organization.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/content-gb-organization-meta.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/views/_comments.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/styles/genesis/_plugins.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/styles/elements/_forms.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/variables/_colors.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/styles/genesis/_widgets.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/variables/_gradients.scss",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/content/themes/genesis-afll/inc/genesis-footer.php",
+		"/Users/tim/Documents/Web Development/Alliance for Liberal Learning/allianceforliberallearning.tim/source/scss/views/_footer.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/elements/_searchform.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/content-gb-organization-excerpt.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/functions.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/events/_events.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/pages/_full-header.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/my-templates/custom-groups-page.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/_imports.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/_layout.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/content-gb-organization.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/inc/template-tags.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/front-page.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/footer/_footer.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/elements/_elements.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/groups/_groups.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/single-organization.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/single-gb-organization.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/blog/_blog.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/_navigation.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/templates/about-learn/_about-learn.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/scss/variables/_gradients.scss",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/www-dev/js/libs/lazysizes.js",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/my-templates/custom-learn-page.php",
+		"/Users/tim/Documents/Web Development/Great Books Great Discussions/dev.gbgd.org/wordpress/wp-content/themes/gbgd/partials/bigpromo.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+			"",
+			"/Users/tim/Documents/Web Development/timmy/views",
+			"",
+			"Custom",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"has_venue_address",
+			"organizer",
+			"singlepostadddrop",
+			"typl",
+			"typl8",
+			"susannaludwig.com",
+			"myApp",
+			"additional_information",
+			"$tabs",
+			"tickets",
+			"get_tickets",
+			"front_end_tickets_form",
+			"placeholder",
+			"$serif",
+			"#tribe-events-content",
+			"lazy",
+			"1000px",
+			"font-size: 13px",
+			"font-size",
+			"30px",
+			"font-size: 12px",
+			"font-size: 11px",
+			"20px",
+			"hover",
+			"hoer",
+			"add_lazy",
+			"sort_terms",
+			"gb-orbanization__map",
+			"grousp-nav-menu",
+			"%",
+			"lazy",
+			"2rem",
+			"lazy",
+			"comments",
+			"donation_form",
+			"stripe",
+			"z-",
+			"z",
+			"get_img",
+			"img_id",
+			"get_the_post_thumbnail_id",
+			"lazy",
+			"tevko",
+			"font",
+			"radiusSelect",
+			"address_search",
+			"font-size",
+			"hover",
+			"newsletter",
+			"seti",
+			"figcaption",
+			"right_column",
+			"#address_search",
+			"searchForm",
+			"#map",
+			"map",
+			"addRequestForm",
+			"sl_div",
+			"7 of 12",
+			"sl_div",
+			";\n",
+			"map_sidebar",
+			"mapcanvas",
+			"address_Search",
+			"_Search",
+			"mapcanvas",
+			"sl_div",
+			"#tribe-events-footer",
+			"tribe-events-footer",
+			"lighten($green",
+			"tribe-bar-full",
+			"tribe-events-read-more",
+			".tribe-events-day .tribe-events-day-time-slot h5",
+			".tribe-events-day .tribe-events-day-time-slot .type-tribe_events",
+			"tribe-events-image",
+			"tribe-events-featured",
+			"tribe-events-single-event-title",
+			"tribe-events-schedule",
+			"tribe-events-single-event-title",
+			"tribe-events-meta-group",
+			"tribe-events-event-meta",
+			"tribe-events-single-section",
+			"tribe-events-meta-group",
+			"tribe-events-single-section-title",
+			"599px",
+			"font-weight: 600",
+			"font-weight:600",
+			"600",
+			"tribe-events-single-section-title",
+			".tribe-events-list .tribe-events-event-image+div.tribe-events-content",
+			"tribe-events-read-more",
+			"$postId",
+			"duration",
+			"divider",
+			"tribe-events-event-cost",
+			"tribe-events-cost",
+			"tribe-events-divider",
+			"tribe-events-cost",
+			"tribe-events-event-cost",
+			"tribe-events-cost",
+			"duration",
+			"dtstart",
+			"#tribe-events-bar",
+			"#tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow:after",
+			"tribe-bar-collapse",
+			"map",
+			".tribe-events-event-meta .tribe-events-meta-group",
+			".tribe-events-event-meta .tribe-events-meta-group, .tribe-events-event-meta .column",
+			".tribe-events-meta-group .tribe-events-single-section-title",
+			".tribe-events-tooltip p.entry-summary",
+			"tribe-events-meta-group",
+			".tribe-events-tooltip p.entry-summary",
+			".events-archive.events-gridview #tribe-events-content table .type-tribe_events",
+			"thead th",
+			"bold",
+			" th ",
+			"th",
+			"thead th",
+			"11px",
+			"duration",
+			"#tribe-bar-views",
+			"tribe-bar-filter",
+			"tribe-bar-views",
+			"tribe-bar-views-inner",
+			"tribe-events-single-section",
+			"outline: 1px solid",
+			"outline:1px solid",
+			"type-tribe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"timmy",
+			"font-size: 0.77em",
+			"1.5em",
+			"font-size: 0.77em",
+			"0.77em",
+			"1em",
+			"$post",
+			"gbgd",
+			"gbgd_stripe",
+			"### ",
+			"Right"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 20.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello_app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
